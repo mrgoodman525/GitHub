@@ -20,4 +20,7 @@ body{
         background: rgb(135, 137, 141) !important;
         color: white;
     }
-    
+
+.about-container{
+    background-color: rgb(248, 246, 246);
+}
