@@ -10,17 +10,20 @@ body{
     background-color: rgb(92, 90, 87);
 }
 .nav-bg{
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(37, 89, 168);
 }
     a:hover{
-        background:rgb(109, 109, 177);
+        background:rgb(3, 46, 139);
         color: red;
     }
     a:active{
-        background: rgb(135, 137, 141) !important;
+        background: rgb(57, 130, 240);
         color: white;
     }
 
 .about-container{
     background-color: rgb(248, 246, 246);
+}
+.education-container{
+    background-color: azure;
 }
