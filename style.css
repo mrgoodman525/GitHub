@@ -1,0 +1,23 @@
+body{
+    font-family: font-family: 'Roboto', sans-serif;
+    
+}
+.banner-container{
+    background-color: rgb(221, 209, 209);
+}
+
+.banner-col{
+    background-color: rgb(92, 90, 87);
+}
+.nav-bg{
+    background-color: rgb(41, 40, 40);
+}
+    a:hover{
+        background:rgb(109, 109, 177);
+        color: red;
+    }
+    a:active{
+        background: rgb(135, 137, 141) !important;
+        color: white;
+    }
+    
