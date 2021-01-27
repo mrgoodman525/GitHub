@@ -27,3 +27,11 @@ body{
 .education-container{
     background-color: azure;
 }
+
+.hover:hover{
+    background-color: #50555a !important;
+    border: 20px rgb(15, 24, 3) !important;
+}
+h3{
+    text-align: center;
+}
