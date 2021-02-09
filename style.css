@@ -13,8 +13,8 @@ body{
     background-color: rgb(37, 89, 168);
 }
     a:hover{
-        background:rgb(3, 46, 139);
-        color: red;
+        background:rgb(24, 25, 27) !important;
+       
     }
     a:active{
         background: rgb(57, 130, 240);
@@ -31,6 +31,7 @@ body{
 .hover:hover{
     background-color: #50555a !important;
     border: 20px rgb(15, 24, 3) !important;
+    box-shadow: 2px 2px 10px black;
 }
 h3{
     text-align: center;
@@ -39,4 +40,9 @@ img{
     
     width: 40vw ;
     margin: auto;
+    height: 30vw;
+}
+.row{
+    
+    height: 10vw !important;
 }
