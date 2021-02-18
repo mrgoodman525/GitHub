@@ -42,7 +42,9 @@ img{
     margin: auto;
     height: 30vw;
 }
-.row{
-    
-    height: 10vw !important;
+h5{
+    font-size: smaller !important;
+}
+.p{
+    font-size: smaller !important;
 }
